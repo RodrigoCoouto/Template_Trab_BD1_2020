@@ -5,9 +5,10 @@ Trabalho desenvolvido durante a disciplina de BD1
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
-segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
-...<br>
+Rodrigo Couto:rodcoutocontas@gmail.com<br>
+Paulo Ricardo:pauloricardo1705@gmail.com<br>
+
+
 
 ### 2.INTRODUÇÃO E MOTIVAÇÃO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
@@ -49,10 +50,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
  
  
 #### 4.3 TABELA DE DADOS DO SISTEMA:
-    a) Esta tabela deve conter todos os atributos do sistema e um mínimo de 10 linhas/registros de dados.
-    b) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
     
-(https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/arquivos/BD1_Tabela.xlsx?)
+    
+https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/arquivos/BD1_Tabela.xlsx?
     
     
 ### 5.MODELO CONCEITUAL<br>

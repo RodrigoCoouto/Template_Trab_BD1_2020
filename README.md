@@ -29,10 +29,9 @@ As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome d
 
 ### 4.PROTOTIPAÇÃO, PERGUNTAS A SEREM RESPONDIDAS E TABELA DE DADOS<br>
 #### 4.1 RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
 Sugestão: https://balsamiq.cloud/s8a71go/pa0x6rs/r3D7B/<br>
-
+ 
 ![Alt text](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/gest%C3%A3odeprojetos.png "Title")
 ![Arquivo PDF do Protótipo Balsamiq feito para Gestor de Tarefas e Projetos](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/arquivos/gest%C3%A3odeprojetos.pdf "Gestor de Tarefas e Projetos")
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?

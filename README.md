@@ -21,7 +21,7 @@ Este documento contém a especificação do projeto do banco de dados <nome do p
 
 ### 3.MINI-MUNDO<br>
 
-Com o decorrer da pandemia, tornou-se mais comum o home office e com isso surge uma dificuldade em supervisionar quais tarefas estão sendo executadas e obter dados sobre elas como tempo utilizado para realiza-la e o tempo limite para entrega. Além disso as pessoas estão passando mais tempo em casa, logo, estando mais tempo presente em casa há um uso maior da residência e portanto mais tarefas a serem realizadas para se manter em ordem.
+>Com o decorrer da pandemia, tornou-se mais comum o home office e com isso surge uma dificuldade em supervisionar quais tarefas estão sendo executadas e obter dados sobre elas como tempo utilizado para realiza-la e o tempo limite para entrega. Além disso as pessoas estão passando mais tempo em casa, logo, estando mais tempo presente em casa há um uso maior da residência e portanto mais tarefas a serem realizadas para se manter em ordem.
 O sistema deve ser simples e de fácil entendimento para ser utilizado tanto por pequenas empresas quanto por ambientes familiares, etc.
 O sistema precisa armazenar informações das tarefas e dos integrantes.
 Os integrantes devem ser cadastrados por nome e possuir uma classificação dada pelo criador do projeto que irá divergir dos demais, para que exista tarefas exclusivas para determinado cargo. Todas as tarefas terão seu nome, data de entrega, e uma classificação (caso o criador deseja que esta tarefa seja realizada por um determinado integrante).

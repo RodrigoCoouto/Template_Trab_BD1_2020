@@ -21,16 +21,13 @@ Este documento contém a especificação do projeto do banco de dados <nome do p
 
 ### 3.MINI-MUNDO<br>
 
-Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar) <br>
-Entrevista com o usuário e identificação dos requisitos.(quando for o caso de sistemas com cliente  real)<br>
-Descrição textual das regras de negócio definidas como um  subconjunto do mundo real 
-cujos elementos são propriedades que desejamos incluir, processar, armazenar, 
-gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
+> Sistema de divisão de tarefas
 
-> Com o decorrer da pandemia, tornou-se mais comum o home office e com isso surge uma dificuldade em supervisionar quais tarefas estão sendo executadas e obter dados sobre elas como tempo utilizado para realiza-la e o tempo limite para entrega. Além disso as pessoas estão passando mais tempo em casa, logo, estando mais tempo presente em casa há um uso maior da residência e portanto mais tarefas a serem realizadas para se manter em ordem.
-O sistema precisa armazenar informações das tarefas e dos integrantes, além de mostrar uma "barra de conclusão" para demonstrar o progresso no projeto.
+Com o decorrer da pandemia, tornou-se mais comum o home office e com isso surge uma dificuldade em supervisionar quais tarefas estão sendo executadas e obter dados sobre elas como tempo utilizado para realiza-la e o tempo limite para entrega. Além disso as pessoas estão passando mais tempo em casa, logo, estando mais tempo presente em casa há um uso maior da residência e portanto mais tarefas a serem realizadas para se manter em ordem.
+O sistema deve ser simples e de fácil entendimento para ser utilizado tanto por pequenas empresas quanto por ambientes familiares, etc.
+O sistema precisa armazenar informações das tarefas e dos integrantes.
 Os integrantes devem ser cadastrados por nome e possuir uma classificação dada pelo criador do projeto que irá divergir dos demais, para que exista tarefas exclusivas para determinado cargo. Todas as tarefas terão seu nome, data de entrega, e uma classificação (caso o criador deseja que esta tarefa seja realizada por um determinado integrante).
-As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome da tarefa realizada além da data e quem foram os realizadores, as tarefas podem ser classificadas por nível de dificuldade, prioridade ou por tempo requerido. O sistema irá monitorar o lucros do projeto, a satisfação do cliente,  mostrará o orçamento do projeto, equipamentos e gastos com funcionário. 
+As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome da tarefa realizada além da data e quem foram os realizadores.
 
 ### 4.PROTOTIPAÇÃO, PERGUNTAS A SEREM RESPONDIDAS E TABELA DE DADOS<br>
 #### 4.1 RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>

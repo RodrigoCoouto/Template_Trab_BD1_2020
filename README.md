@@ -51,8 +51,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
  
 #### 4.3 TABELA DE DADOS DO SISTEMA:
     
-    
-https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/arquivos/BD1_Tabela.xlsx?
+    Tabelas neste [link.](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/arquivos/BD1_Tabela.xlsx?)
+
     
     
 ### 5.MODELO CONCEITUAL<br>
@@ -66,7 +66,6 @@ https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/arquivos/BD1
         e tuplas falsas (Aplicar os conceitos de normalização abordados).   
         
 ![Alt text](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/images/ModeloConceitual.png)
-    
     
         
     

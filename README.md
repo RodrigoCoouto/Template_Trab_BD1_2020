@@ -33,7 +33,7 @@ Neste ponto a codificação não e necessária, somente as ideias de telas devem
 
 Sugestão: https://balsamiq.cloud/s8a71go/pa0x6rs/r3D7B/<br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
+![Alt text](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/gest%C3%A3odeprojetos.png "Title")
 ![Arquivo PDF do Protótipo Balsamiq feito para Gestor de Tarefas e Projetos](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/Prototipo.pdf "Gestor de Tarefas e Projetos")
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 

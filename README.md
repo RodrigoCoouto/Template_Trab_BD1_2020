@@ -1,4 +1,4 @@
-# TRABALHO 01:  Título do Trabalho
+# TRABALHO 01:  Gestor de Tarefas e Projetos
 Trabalho desenvolvido durante a disciplina de BD1
 
 # Sumário
@@ -53,22 +53,15 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
  
 #### 4.3 TABELA DE DADOS DO SISTEMA:
     
-    Tabelas neste [link.](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/arquivos/BD1_Tabela.xlsx?)
+    Tabelas neste [link.](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/arquivos/BD1_Tabela.xlsx)
 
     
     
 ### 5.MODELO CONCEITUAL<br>
-    A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
-    B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 3 e o Máximo 5.
-        * informe quais são as 3 principais entidades do sistema em densenvolvimento<br>(se houverem mais de 3 entidades, pense na importância da entidade para o sistema)       
-    C) Principais fluxos de informação/entidades do sistema (mínimo 3). <br>Dica: normalmente estes fluxos estão associados as tabelas que conterão maior quantidade de dados 
-    D) Qualidade e Clareza
-        Garantir que a semântica dos atributos seja clara no esquema (nomes coerentes com os dados).
-        Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
-        e tuplas falsas (Aplicar os conceitos de normalização abordados).   
+    
         
 ![Alt text](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/images/ModeloConceitual.png)
-    
+  
         
     
 #### 5.1 Validação do Modelo Conceitual

@@ -5,8 +5,10 @@ Trabalho desenvolvido durante a disciplina de BD1
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-Rodrigo Couto:rodcoutocontas@gmail.com<br>
+João Pedro Garcia Pereira:garcia.jops@gmail.com<br>
 Paulo Ricardo:pauloricardo1705@gmail.com<br>
+Rodrigo Couto:rodcoutocontas@gmail.com<br>
+
 
 
 

@@ -76,7 +76,7 @@ As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome d
         (não serão aceitos modelos que não estejam em conformidade)
 
 ### 7	MODELO FÍSICO<br>
-lINK https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/modelo%20fisico.txt
+![LINK] (https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/modelo%20fisico.txt)
 
         
        

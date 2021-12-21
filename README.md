@@ -38,7 +38,7 @@ As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome d
 * Relatório que mostra a quantidade de horas/dias gastos para cumprir uma tarefa ou projeto. 
 * Relatório que mostra o desempenho dos cargos na realização de tarefas.
 * Relatório que mostra a porcentagem concluída do projeto.
-* 
+* Relatório que informa quantas tarefas foram criadans e não foram entregues, assim como as que foram entregues.
  
  
 #### 4.3 TABELA DE DADOS DO SISTEMA:

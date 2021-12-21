@@ -50,7 +50,7 @@ As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome d
 ### 5.MODELO CONCEITUAL<br>
     
         
-![Alt text](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/images/ModeloConceitual.png)
+![LINK](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/ModeloConceitualBD.PNG)
   
         
     

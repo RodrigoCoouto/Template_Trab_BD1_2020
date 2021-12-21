@@ -32,8 +32,6 @@ As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome d
 ![Alt text](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/gest%C3%A3odeprojetos.png "Title")
 ![Arquivo PDF do Protótipo Balsamiq feito para Gestor de Tarefas e Projetos](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/arquivos/gest%C3%A3odeprojetos.pdf "Gestor de Tarefas e Projetos")
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
-    a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
-    b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
     
 > O Sistema de gestão de tarefas precisa inicialmente dos seguintes relatórios:
 * Relatório que mostra os temas mais comuns presentes em projetos.
@@ -41,9 +39,6 @@ As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome d
 * Relatório que mostra o desempenho dos cargos na realização de tarefas.
 * Relatório que mostra a porcentagem concluída do projeto.
 * 
->> ##### Observações: <br> a) perceba que este relatório pode conter linhas com alguns dados repetidos (mas não todos). <br>  b) para os empregados que não possuirem alguma destas informações o valor no registro deve aparecer sem informação/nulo. 
-* Relatório que obtenha a frequencia absoluta e frequencia relativa da quantidade de cpfs únicos no relatório anterior. Apresente os resultados ordenados de forma decrescente pela frequencia relativa.
-
  
  
 #### 4.3 TABELA DE DADOS DO SISTEMA:

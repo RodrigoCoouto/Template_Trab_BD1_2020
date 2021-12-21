@@ -76,47 +76,7 @@ As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome d
         (não serão aceitos modelos que não estejam em conformidade)
 
 ### 7	MODELO FÍSICO<br>
- CREATE TABLE Pessoa(
-	id INT PRIMARY KEY,
-	nome varchar(50),
-	data_nascimento date,
-	email varchar(50),
-	senha int
-);
-
-CREATE TABLE Projeto(
-	codigo INT PRIMARY KEY,
-	nome varchar(50),
-	data_entrega date
-);
-
-CREATE TABLE Estado(
-	todo varchar(50),
-	doing int,
-	done int
-);
-
-CREATE TABLE Tarefa(
-	codigo integer PRIMARY KEY,
-	nome varchar(50),
-	data_limite date,
-	descricao varchar(300)
-);
-
-CREATE TABLE Prioridade(
-	nivel1 int,
-	nivel2 int,
-	nivel3 int
-
-);
-
-CREATE TABLE Cargo(
-	adm int,
-	cargo1 int,
-	cargo2 int,
-	cargo3 int,
-cargo4 int
-);
+lINK https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/modelo%20fisico.txt
 
         
        

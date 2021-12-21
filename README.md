@@ -87,9 +87,7 @@ As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome d
     Nivel: campo responsável por armazenar o nivel de dificuldade da tarefa.
 
 ### 6	MODELO LÓGICO<br>
-        a) inclusão do esquema lógico do banco de dados
-        b) verificação de correspondencia com o modelo conceitual 
-        (não serão aceitos modelos que não estejam em conformidade)
+![LINK](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/modelo%20logico.png)
 
 ### 7	MODELO FÍSICO<br>
 ![LINK](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/modelo%20fisico.txt)

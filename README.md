@@ -102,7 +102,7 @@ As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome d
 
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
-![COLAB](https://colab.research.google.com/drive/1Xa9WJQLLEzkMI-dv6v_blnjzcLMsSUMl#scrollTo=kBgpaeJ6D0Vw)
+![COLAB](https://colab.research.google.com/drive/1Xa9WJQLLEzkMI-dv6v_blnjzcLMsSUMl?usp=sharing)
 ># Marco de Entrega 01: Do item 1 até o item 9.1<br>
 
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 4)<br>

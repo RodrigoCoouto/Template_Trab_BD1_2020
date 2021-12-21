@@ -63,12 +63,32 @@ As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome d
     [Grupo02]: [Nomes dos que participaram na avaliação]
 
 #### 5.2 Descrição dos dados 
-    [objeto]: [descrição do objeto]
+    Pessoa: Tabela que armazena as informações relativas aos usuários do sistema.
+    Tarefa: Tabela que armazena as informações relativas as tarefas dos projetos.
+    Prioridade: Tabela que armazena as informações relativas a prioridade das tarefas e projetos do sistema.
+    Estado: Tabela que armazena as informações aos estado tanto da tarefa, tanto do projeto no sistema.
+    Projeto: Tabela que armazena as informações relacionadas ao projeto.
+    Cargo: Tabela que armazena as informações dos cargos de cada usuário do sistema.
     
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
-
+ 
+    Email: campo responsável pelo armazenamento do e-mail dos usuários.
+    ID: campo para o armazenamento do identificador unico de cada usuário.
+    Nome: campo responsavel por armazenar o nome do usuário.
+    Data_Nascimento: campo que armazena a data de nascimento dos usuários.
+    Senha: campo para o armazenamento das senhas dos usuários.
+    Nome(projeto): responsável por armazenar o nome do projeto criado pelo usuário.
+    Codigo(projeto: campo responsável para ser um identificador unico de cada projeto.
+    Data_entrega: campo responsável pelo armazenamento da data de entrega de cada projeto.
+    Codigo(tarefa): campo responsável para ser um identificador unico de cada projeto.
+    Nome(tarefa): responsável por armazenar o nome do projeto criado pelo usuário.
+    Data_limite: campo responsável pelo armazenamento da data limite de cada tarefa.
+    Descrição: campo responsável por armazenar a descrição da tarefa a ser realizada.
+    Todo: campo responsável por armazenar a tarefa ou projeto a ser realizada.
+    Doing:  campo responsável por armazenar a tarefa ou projeto em andamento.
+    Done: campo responsável por armazenar a tarefa ou o projeto já realizado.
+    Adm: campo responsável por armazenar os administradores de cada projeto.
+    Cargo: campo responsável por armazenar o cargo de cada usuário do projeto.
+    Nivel: campo responsável por armazenar o nivel de dificuldade da tarefa.
 
 ### 6	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados

@@ -15,7 +15,7 @@ Rodrigo Couto:rodcoutocontas@gmail.com<br>
 ### 2.INTRODUÇÃO E MOTIVAÇÃO<br>
 
 
-> Dados divulgados no começo de julho pela OIT (Organização Internacional do Trabalho) revelam que entre 20% e 30% dos trabalhadores da América Latina e Caribe fizeram home office durante a pandemia. Antes, eram menos de 3%. Por esse motivo que idealizamos o Gestor de Tarefas e processos, para ajudar esses trabalhadores que não estavam acostumados a esse tipo de trabalho a se organizarem melhor não só com as demandas dos serviços, mas também com as domesticas.
+> Dados divulgados no começo de julho pela OIT (Organização Internacional do Trabalho) revelam que entre 20% e 30% dos trabalhadores da América Latina e Caribe fizeram home office durante a pandemia. Antes, eram menos de 3%. Por esse motivo que idealizamos o Gestor de Tarefas e processos, para ajudar esses trabalhadores que não estavam acostumados a esse tipo de trabalho a se organizarem melhor não só com as demandas dos seus respectivos trabalhos, mas também com as domesticas.
  
 
 ### 3.MINI-MUNDO<br>

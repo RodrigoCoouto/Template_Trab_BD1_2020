@@ -43,7 +43,7 @@ As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome d
  
 #### 4.3 TABELA DE DADOS DO SISTEMA:
     
-![LINK](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/arquivos/BD1_Tabela.xlsx)
+![LINK](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/BD1_TabelaDados.xlsx)
 
     
     

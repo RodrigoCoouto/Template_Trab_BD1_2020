@@ -106,34 +106,34 @@ VALUES(9699, 'Definir volume', '2022/01/19', 'Calcular o decibéis do som');
 
 
 INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
-VALUES(17,1299,0,1,0);
+VALUES(17,1299,'0','1','0');
 
 INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
-VALUES(56,1548,0,0,1);
+VALUES(56,1548,'0','0','1');
 
 INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
-VALUES(25,6266,0,1,0);
+VALUES(25,6266,'0','1','0');
 
 INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
-VALUES(13,5556,1,0,0);
+VALUES(13,5556,'1','0','0');
 
 INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
-VALUES(96,5513,0,0,1);
+VALUES(96,5513,'0','0','1');
 
 INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
-VALUES(24,8548,1,0,0);
+VALUES(24,8548,'1','0','0');
 
 INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
-VALUES(28,4863,1,0,0);
+VALUES(28,4863,'1','0','0');
 
 INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
-VALUES(12,4153,0,1,0);
+VALUES(12,4153,'0','1','0');
 
 INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
-VALUES(2,9562,0,0,1);
+VALUES(2,9562,'0','0','1');
 
 INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
-VALUES(3,9699,0,0,1);
+VALUES(3,9699,'0','0','1');
 
 
 INSERT INTO Cargo(codigo_projeto,adm,cargo1,cargo2,cargo3,cargo4)
@@ -151,28 +151,28 @@ VALUES(56,54321,64321,54312,55555,65432),
 
 
 INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
-VALUES(1299,1,0,0);
+VALUES(1299,'1','0','0');
 
 INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
-VALUES(1548,0,0,1);
+VALUES(1548,'0','0','1');
 
 INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
-VALUES(6266,0,1,0);
+VALUES(6266,'0','1','0');
 
 INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
-VALUES(5513,1,0,0);
+VALUES(5513,'1','0','0');
 
 INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
-VALUES(8548,0,1,0);
+VALUES(8548,'0','1','0');
 
 INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
-VALUES(4863,0,0,1);
+VALUES(4863,'0','0','1');
 
 INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
-VALUES(4153,0,1,0);
+VALUES(4153,'0','1','0');
 
 INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
-VALUES(9562,1,0,0);
+VALUES(9562,'1','0','0');
 
 INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
-VALUES(9699,0,1,0);
+VALUES(9699,'0','1','0');

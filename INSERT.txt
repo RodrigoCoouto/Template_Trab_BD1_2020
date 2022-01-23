@@ -28,6 +28,9 @@ VALUES(65432,'José', '1998/04/27','jose_egit@gmail.com','2798');
 INSERT INTO Pessoa(ID,NOME,DATA_NASCIMENTO,EMAIL,SENHA)
 VALUES(66222,'Henrique', '2001/01/01','costa_henrique@gmail.com','1011');
 
+
+
+
 INSERT INTO Projeto(CODIGO,NOME,DATA_ENTREGA)
 VALUES(17, 'Calculadora','2022/03/15');
 
@@ -57,6 +60,8 @@ VALUES(2, 'Jogo','2022/12/14');
 
 INSERT INTO Projeto(CODIGO,NOME,DATA_ENTREGA)
 VALUES(3, 'Som','2021/12/31');
+
+
 
 INSERT INTO Tarefa(CODIGO,NOME,DATA_LIMITE,DESCRICAO)
 VALUES(1299, 'Operação de soma', '2021/12/20', 'O deve programar a função de soma');
@@ -100,73 +105,74 @@ VALUES(9699, 'Definir volume', '2022/01/19', 'Calcular o decibéis do som');
 
 
 
-INSERT INTO Estado(TODO,DOING,DONE)
-VALUES(17,56,1299);
+INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
+VALUES(17,1299,0,1,0);
 
-INSERT INTO Estado(DOING,DONE)
-VALUES(96,24);
+INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
+VALUES(56,1548,0,0,1);
 
+INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
+VALUES(25,6266,0,1,0);
 
-INSERT INTO Estado(TODO,DOING,DONE)
-VALUES(2,6266,28);
+INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
+VALUES(13,5556,1,0,0);
 
-INSERT INTO Estado(TODO,DOING)
-VALUES(3,9699);
+INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
+VALUES(96,5513,0,0,1);
 
-INSERT INTO Estado(TODO,DOING,DONE)
-VALUES(4863,5556,13);
+INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
+VALUES(24,8548,1,0,0);
 
-INSERT INTO Estado(TODO,DONE)
-VALUES(8548,9562);
+INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
+VALUES(28,4863,1,0,0);
 
-INSERT INTO Estado(DOING)
-VALUES(12);
+INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
+VALUES(12,4153,0,1,0);
 
-INSERT INTO Estado(TODO,DOING)
-VALUES(5513,4153);
+INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
+VALUES(2,9562,0,0,1);
 
-INSERT INTO Estado(TODO,DOING)
-VALUES(24,1548);
-
-
-
-INSERT INTO Cargo(adm,cargo1,cargo2,cargo3,cargo4)
-VALUES(54321,64321,54312,55555,65432),
-(66222,54444,54322,54211,54213),
-(64321,54322,54211,54213,65432),
-(54312,54444,64321,54321,65432),
-(55555,65432,64321,54211,54444),
-(65432,54321,66222,54312,55555),
-(54444,54321,55555,64312,54321),
-(54211,55555,65432,54213,54322),
-(54213,54321,64321,55555,54312),
-(54322,54211,54444,54213,54321);
+INSERT INTO Estado(codigo_projeto,codigo_tarefa,TODO,DOING,DONE)
+VALUES(3,9699,0,0,1);
 
 
+INSERT INTO Cargo(codigo_projeto,adm,cargo1,cargo2,cargo3,cargo4)
+VALUES(56,54321,64321,54312,55555,65432),
+(25,66222,54444,54322,54211,54213),
+(17,64321,54322,54211,54213,65432),
+(96,54312,54444,64321,54321,65432),
+(13,55555,65432,64321,54211,54444),
+(12,65432,54321,66222,54312,55555),
+(24,54444,54321,55555,64312,54321),
+(2,54211,55555,65432,54213,54322),
+(28,54213,54321,64321,55555,54312),
+(3,54322,54211,54444,54213,54321);
 
-INSERT INTO Prioridade(nivel1)
-VALUES(1299);
 
-INSERT INTO Prioridade(nivel2)
-VALUES(1548);
 
-INSERT INTO Prioridade(nivel3)
-VALUES(6266);
+INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
+VALUES(1299,1,0,0);
 
-INSERT INTO Prioridade(nivel1)
-VALUES(5513);
+INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
+VALUES(1548,0,0,1);
 
-INSERT INTO Prioridade(nivel2)
-VALUES(8548);
+INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
+VALUES(6266,0,1,0);
 
-INSERT INTO Prioridade(nivel3)
-VALUES(4863);
+INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
+VALUES(5513,1,0,0);
 
-INSERT INTO Prioridade(nivel2)
-VALUES(4153);
+INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
+VALUES(8548,0,1,0);
 
-INSERT INTO Prioridade(nivel1)
-VALUES(9562);
+INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
+VALUES(4863,0,0,1);
 
-INSERT INTO Prioridade(nivel3)
-VALUES(9699);
+INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
+VALUES(4153,0,1,0);
+
+INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
+VALUES(9562,1,0,0);
+
+INSERT INTO Prioridade(codigo_tarefa,nivel1,nivel2,nivel3)
+VALUES(9699,0,1,0);

@@ -13,9 +13,10 @@ CREATE TABLE Projeto(
 );
 
 CREATE TABLE Estado(
-	todo varchar(50),
-	doing int,
-	done int
+	codigo_tarefa INT PRIMARY KEY,
+	todo BIT NOT NULL,
+	doing BIT NOT NULL,
+	done BIT NOT NULL
 );
 
 CREATE TABLE Tarefa(
@@ -26,16 +27,18 @@ CREATE TABLE Tarefa(
 );
 
 CREATE TABLE Prioridade(
-	nivel1 int,
-	nivel2 int,
-	nivel3 int
+	codigo_tarefa integer PRIMARY KEY,
+	nivel1 BIT NOT NULL,
+	nivel2 BIT NOT NULL,
+	nivel3 BIT NOT NULL
 
 );
 
 CREATE TABLE Cargo(
+	codigo_projeto INT PRIMARY KEY
 	adm int,
 	cargo1 int,
 	cargo2 int,
 	cargo3 int,
-cargo4 int
+	cargo4 int
 );

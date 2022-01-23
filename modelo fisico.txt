@@ -40,7 +40,7 @@ CREATE TABLE Prioridade(
 );
 
 CREATE TABLE Cargo(
-	codigo_projeto INT PRIMARY KEY,
+	codigo_projeto INT,
 	adm int,
 	cargo1 int,
 	cargo2 int,

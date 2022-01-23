@@ -23,18 +23,18 @@ CREATE TABLE Tarefa(
 CREATE TABLE Estado(
 	codigo_projeto INT,
   	codigo_tarefa INT,
-	todo BIT NOT NULL,
-	doing BIT NOT NULL,
-	done BIT NOT NULL,
+	todo BOOLEAN NOT NULL,
+	doing BOOLEAN NOT NULL,
+	done BOOLEAN NOT NULL,
  	CONSTRAINT fk_Estarefa FOREIGN KEY (codigo_tarefa) REFERENCES Tarefa (codigo),
   	CONSTRAINT fk_Esprojeto FOREIGN KEY (codigo_projeto) REFERENCES Projeto (codigo)
 );
 
 CREATE TABLE Prioridade(
 	codigo_tarefa INT,
-	nivel1 BIT NOT NULL,
-	nivel2 BIT NOT NULL,
-	nivel3 BIT NOT NULL,
+	nivel1 BOOLEAN NOT NULL,
+	nivel2 BOOLEAN NOT NULL,
+	nivel3 BOOLEAN NOT NULL,
   	CONSTRAINT fk_Priorefa FOREIGN KEY (codigo_tarefa) REFERENCES Tarefa (codigo)
 
 );

@@ -12,12 +12,6 @@ CREATE TABLE Projeto(
 	data_entrega date
 );
 
-CREATE TABLE Estado(
-	codigo_tarefa INT PRIMARY KEY,
-	todo BIT NOT NULL,
-	doing BIT NOT NULL,
-	done BIT NOT NULL
-);
 
 CREATE TABLE Tarefa(
 	codigo integer PRIMARY KEY,
@@ -26,11 +20,22 @@ CREATE TABLE Tarefa(
 	descricao varchar(300)
 );
 
+CREATE TABLE Estado(
+	codigo_projeto INT,
+  	codigo_tarefa INT,
+	todo BIT NOT NULL,
+	doing BIT NOT NULL,
+	done BIT NOT NULL,
+ 	CONSTRAINT fk_Estarefa FOREIGN KEY (codigo_tarefa) REFERENCES Tarefa (codigo),
+  	CONSTRAINT fk_Esprojeto FOREIGN KEY (codigo_projeto) REFERENCES Projeto (codigo)
+);
+
 CREATE TABLE Prioridade(
-	codigo_tarefa integer PRIMARY KEY,
+	codigo_tarefa INT,
 	nivel1 BIT NOT NULL,
 	nivel2 BIT NOT NULL,
-	nivel3 BIT NOT NULL
+	nivel3 BIT NOT NULL,
+  	CONSTRAINT fk_Priorefa FOREIGN KEY (codigo_tarefa) REFERENCES Tarefa (codigo)
 
 );
 
@@ -40,5 +45,6 @@ CREATE TABLE Cargo(
 	cargo1 int,
 	cargo2 int,
 	cargo3 int,
-	cargo4 int
+	cargo4 int,
+  	CONSTRAINT fk_Carjeto FOREIGN KEY (codigo_projeto) REFERENCES Projeto (codigo)
 );

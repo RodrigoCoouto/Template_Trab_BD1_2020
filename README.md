@@ -113,7 +113,7 @@ As tarefas são realizadas por um ou mais integrantes e devem armazenar o nome d
 #### 9.9	CONSULTAS COM SELF JOIN E VIEW (Mínimo 6)<br>
 #### 9.10	SUBCONSULTAS (Mínimo 4)<br>
 
-De 9.2 até 9.10 está no ![COLAB](https://colab.research.google.com/drive/1Xa9WJQLLEzkMI-dv6v_blnjzcLMsSUMl#scrollTo=kBgpaeJ6D0Vw)
+De 9.2 até 9.10 está no ![COLAB]()
 
 ># Marco de Entrega 02: Do item 9.2 até o ítem 9.10<br>
 

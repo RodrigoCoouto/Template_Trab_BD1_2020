@@ -125,8 +125,7 @@ Relatórios e Gráficos estão no ![COLAB](https://github.com/RodrigoCoouto/Temp
 
 ### 11	AJUSTES DA DOCUMENTAÇÃO, CRIAÇÃO DOS SLIDES E VÍDEO PARA APRESENTAÇAO FINAL <br>
 
-#### a) Modelo (pecha kucha)<br>
-#### b) Tempo de apresentação 6:40 
+![Pecha Kucha ](https://www.youtube.com/watch?v=oXOi2mxAmjc)
 
 ># Marco de Entrega 03: Itens 10 e 11<br>
 <br>

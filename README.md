@@ -119,9 +119,7 @@ De 9.2 até 9.10 está no ![COLAB](https://github.com/RodrigoCoouto/Template_Tra
 
 ### 10 RELATÓRIOS E GRÁFICOS
 
-#### a) análises e resultados provenientes do banco de dados desenvolvido (usar modelo disponível)
-#### b) link com exemplo de relatórios será disponiblizado pelo professor no AVA
-#### OBS: Esta é uma atividade de grande relevância no contexto do trabalho. Mantenha o foco nos 5 principais relatórios/resultados visando obter o melhor resultado possível.
+Relatórios e Gráficos estão no ![COLAB](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/Gestor_de_Tarefas_e_Projeto_BD.ipynb)
 
     
 

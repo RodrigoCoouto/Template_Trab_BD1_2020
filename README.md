@@ -125,7 +125,7 @@ Relatórios e Gráficos estão no ![COLAB](https://github.com/RodrigoCoouto/Temp
 
 ### 11	AJUSTES DA DOCUMENTAÇÃO, CRIAÇÃO DOS SLIDES E VÍDEO PARA APRESENTAÇAO FINAL <br>
 
-![Pecha Kucha ](https://www.youtube.com/watch?v=oXOi2mxAmjc)
+![Pecha Kucha ](https://github.com/RodrigoCoouto/Template_Trab_BD1_2020/blob/master/Pecha%20Kucha)
 
 ># Marco de Entrega 03: Itens 10 e 11<br>
 <br>
